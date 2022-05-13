@@ -1,1 +1,25 @@
-# 
+### 🥝 React Redux Dashboard App
+
+---
+
+#### 🧶 Screenshots:
+
+**Main Page:**
+![App Screenshot](images/screen.png)
+
+---
+
+#### 🧶 Tech Stack
+
+**Client:**
+
+-   [React](https://ru.reactjs.org/)
+-   [Redux](https://redux.js.org/)
+-   [Redux Toolkit](https://redux-toolkit.js.org/)
+-   [Redux Persist](https://www.npmjs.com/package/redux-persist)
+-   [Sass](https://sass-lang.com/)
+-   [Axios](https://axios-http.com/docs/intro)
+
+#### 🧶 Authors
+
+-   [@logicalOak](https://github.com/logicalOak)
