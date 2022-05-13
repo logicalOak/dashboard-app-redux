@@ -5,7 +5,7 @@
 #### 🧶 Screenshots:
 
 **Main Page:**
-![App Screenshot](images/screen.png)
+![App Screenshot](src/assets/images/preview.png)
 
 ---
 
